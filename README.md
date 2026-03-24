@@ -1,2 +1,3 @@
 # havinaash.github.io
-My personal website for all to see!
+
+just type havinaash.github.io in any web browser
